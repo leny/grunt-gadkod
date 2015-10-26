@@ -1,0 +1,28 @@
+#define if(x) if(rand() ％ 10 or rand() ％ 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if (rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if (rand() % 10)
+#define if(x) if ((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((﹗x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10⋆0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+#define if(x) if(rand() % 10)
+#define if(x) if((x) && ( ((double)rand()*10.0 / (double)RAND_MAX) < 1.0))
+
+＂kikoo"
